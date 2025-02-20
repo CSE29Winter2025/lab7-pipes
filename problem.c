@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-#define ROWS 10
-#define COLS 25
+#define ROWS 40
+#define COLS 50
 
 int main() {
     int arr[ROWS][COLS]; 
